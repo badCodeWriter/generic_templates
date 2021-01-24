@@ -28,7 +28,7 @@ int main()
   v_tasksA[2]->ExecuteTask();
 
   t_b = createTaskB();
-  v_tasksB.push_back(t_b); //taskB STATE_A
+  v_tasksB.push_back(t_b); //taskB STATE_B
 
   v_tasksB[0]->ExecuteTask();
 
