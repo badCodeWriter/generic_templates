@@ -1,0 +1,1 @@
+g++ main.cpp Task.cpp TaskA.cpp TaskB.cpp support_functions.cpp -o out.exe
